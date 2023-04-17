@@ -9,6 +9,7 @@
 # 要件
 
 以下のようなディレクトリ構造を作成するプログラムを作成してください。
+
 作成先のディレクトリは、自分の好きな場所に作成してください。
 
 ```sh
@@ -72,9 +73,11 @@ Google Colaboratory ではなく、ローカル環境で作成してください
 
 `template.ipynb` をダウンロードし、ファイルを編集してください。
 答えがわからない場合は、`answer.ipynb` を参考にしてください。
-質問･修正は`Discord`の質問チャンネル、DM にてお願いします。
+質問･修正は`Discord`の質問チャンネル、DM にてお気軽にどうぞ!
+
 
 ### 参考
 
-- https://kino-code.com/python_environment_for_mac-2/
-- https://kino-code.com/python_environment_for_windows-2/
+- [ローカル環境構築Mac](https://kino-code.com/python_environment_for_mac-2/)
+- [ローカル環境構築Windows](https://kino-code.com/python_environment_for_windows-2/)
+- [osモジュールの簡単な解説]https://www.self-study-blog.com/dokugaku/python-file-operation-os-function/
