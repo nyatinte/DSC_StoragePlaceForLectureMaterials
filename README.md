@@ -80,4 +80,4 @@ Google Colaboratory ではなく、ローカル環境で作成してください
 
 - [ローカル環境構築Mac](https://kino-code.com/python_environment_for_mac-2/)
 - [ローカル環境構築Windows](https://kino-code.com/python_environment_for_windows-2/)
-- [osモジュールの簡単な解説]https://www.self-study-blog.com/dokugaku/python-file-operation-os-function/)
+- [osモジュールの簡単な解説](https://www.self-study-blog.com/dokugaku/python-file-operation-os-function/)
